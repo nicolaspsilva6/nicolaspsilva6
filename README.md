@@ -3,8 +3,9 @@
 
 **`Desenvolvedor em dados`**
 
-**"Meu nome é Nicolas, tenho 20 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python e MySQL.
-Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades técnicas e explorar novas soluções. Meu objetivo é evoluir continuamente como profissional, contribuindo para o desenvolvimento de sistemas eficientes e inovadores."**
+"Meu nome é Nicolas, tenho 20 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python e MySQL.
+Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades técnicas e explorar novas soluções. Meu objetivo é evoluir continuamente como profissional, contribuindo para o desenvolvimento de sistemas eficientes e inovadores."
+<p aling="left"
     <a href="https://github.com/nicolaspsilva6?tab=followers">
         <img 
             alt="LOCAL" 
@@ -18,14 +19,14 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
             title="gmail" 
             src="https://custom-icon-badges.demolab.com/badge/Nicolas.pinheiro7@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white"
         />
-    </a>
+    
 </a>
 <a href="https://github.com/nicolaspsilva6?tab=followers">
     <img 
         alt="gmail" 
         title="gmail" 
         src="https://custom-icon-badges.demolab.com/badge/(11)990172822-orange?style=for-the-badge&logo=phone&logoColor=white"
-    />
+    
 </a>
 </p>
 
@@ -50,7 +51,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-/>
+
 <img 
     align="left" 
     alt="Mysql"
@@ -63,7 +64,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
 
 />
 
-/>
+
 <img 
     align="left" 
     alt="java"
@@ -73,7 +74,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
     
-/>
+
 
 <img 
     align="left" 
