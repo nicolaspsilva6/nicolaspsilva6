@@ -46,6 +46,8 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+<img align="right" alt="" height="190px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0eGNuODU0MmxwbXk1aW05eTEzYWJpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
+
 <img 
     align="left" 
     alt="CSS" 
