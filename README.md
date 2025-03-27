@@ -12,7 +12,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
             src="https://custom-icon-badges.demolab.com/badge/Brasil-SP-purpl?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
-    <a href="https://mail.google.com/mail/u/0/#inbox">
+    <a href=>
         <img 
             alt="gmail" 
             title="gmail" 
