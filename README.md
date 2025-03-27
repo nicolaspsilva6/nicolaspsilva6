@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Dados`**
 
-Tenho 20 anos e sou natural de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python,MySQL e Power Bi.
+Tenho 20 anos e sou natural de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python, MySQL e Power BI.
 Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades técnicas e explorar novas soluções. Meu objetivo é evoluir continuamente como profissional, contribuindo para o desenvolvimento de sistemas eficientes e inovadores.
 <p aling="left"
     <a href=>
