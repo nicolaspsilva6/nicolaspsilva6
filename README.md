@@ -1,6 +1,6 @@
 # 🧑‍💻 Nicolas Pinheiro
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor em Dados`**
 
 "Meu nome é Nicolas, tenho 20 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python e MySQL.
 Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades técnicas e explorar novas soluções. Meu objetivo é evoluir continuamente como profissional, contribuindo para o desenvolvimento de sistemas eficientes e inovadores."
@@ -12,7 +12,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
             src="https://custom-icon-badges.demolab.com/badge/Brasil-SP-purpl?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
-    <a href="https://gmail.com/Nicolas.pinheiro7@gmail.com?tab=followers">
+    <a href="https://mail.google.com/mail/u/0/#inbox">
         <img 
             alt="gmail" 
             title="gmail" 
