@@ -1,7 +1,6 @@
+# 👩🏻‍💻 Nicolas Pinheiro
 
-    </a> Nicolas Pinheiro 
-
-**`Desenvolvedor em dados`**
+**`Desenvolvedora FullStack`**
 
 "Meu nome é Nicolas, tenho 20 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python e MySQL.
 Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades técnicas e explorar novas soluções. Meu objetivo é evoluir continuamente como profissional, contribuindo para o desenvolvimento de sistemas eficientes e inovadores."
@@ -50,8 +49,6 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Mysql"
@@ -59,12 +56,6 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-  
-
-/>
-
-
 <img 
     align="left" 
     alt="java"
@@ -72,10 +63,6 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
-    
-
-
 <img 
     align="left" 
     alt="Python" 
