@@ -29,8 +29,8 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     <img 
         alt="gmail" 
         title="gmail"
-        width="35px" 
-        style="padding-right: 15px;" 
+        width="3px" 
+        style="padding-right: px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     
 </a>
