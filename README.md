@@ -28,7 +28,9 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
 <a href="www.linkedin.com/in/nicolaspinheirodasilva"/>
     <img 
         alt="gmail" 
-        title="gmail" 
+        title="gmail"
+        width="30px" 
+        style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     
 </a>
