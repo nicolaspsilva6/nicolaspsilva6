@@ -30,7 +30,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
         alt="gmail" 
         title="gmail"
         width="3px" 
-        style="padding-right: px;" 
+        style="padding-right:20px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     
 </a>
