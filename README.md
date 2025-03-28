@@ -25,11 +25,11 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
         />
     
 </a>
-<a href=>
+<a href="www.linkedin.com/in/nicolaspinheirodasilva"/>
     <img 
         alt="gmail" 
         title="gmail" 
-        src="https://custom-icon-badges.demolab.com/badge/(11)990172822-orange?style=for-the-badge&logo=phone&logoColor=white"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     
 </a>
 </p>
