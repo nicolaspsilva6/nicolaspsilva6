@@ -77,7 +77,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
