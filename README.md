@@ -11,7 +11,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
 
 #
 
-<img align="right"  height="220px" 
+<img align="right"  height="200px" 
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0eGNuODU0MmxwbXk1aW05eTEzYWJpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
@@ -85,8 +85,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0e
 
   <a href="https://github.com/mari4souza/github-readme-stats">
     <img 
-     height="200" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolaspsilva6&line_height=200&card_width=200&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolaspsilva6&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
