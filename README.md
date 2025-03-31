@@ -11,7 +11,8 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
 
 #
 
-<img align="right" alt="" height="220px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0eGNuODU0MmxwbXk1aW05eTEzYWJpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
+<img align="right"  height="220px" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0eGNuODU0MmxwbXk1aW05eTEzYWJpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
     </a>
