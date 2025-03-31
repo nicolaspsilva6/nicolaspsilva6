@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=800080&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
     </a>
 </div>
 
@@ -72,9 +72,8 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0e
 
 #
 
-### 📊 Estatísticas
-
-<p>
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -83,3 +82,21 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0e
     src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img 
+     height="200" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolaspsilva6&line_height=200&card_width=200&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+
+#
+
+
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolaspsilva6/nicolaspsilva6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolaspsilva6/nicolaspsilva6/output/github-contribution-grid-snake-dark.svg">
+  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolaspsilva6/nicolaspsilva6/output/github-contribution-grid-snake.svg">
+</picture>
+
