@@ -1,22 +1,21 @@
-# 🧑‍💻 Nicolas Pinheiro
+
 <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF006&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-    </a>
+   
   </div>
+  
+#
 
-**`Desenvolvedor em Dados`**
-
-Tenho 20 anos e sou natural de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python, MySQL e Power BI.
+<p align="center">Tenho 20 anos e sou  de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python, MySQL e Power BI.
 Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades técnicas e explorar novas soluções. Meu objetivo é evoluir continuamente como profissional, contribuindo para o desenvolvimento de sistemas eficientes e inovadores.
-<p aling="left"
-    <a href=>
-        <img 
-            alt="LOCAL" 
-            title="LOCAL" 
-            src="https://custom-icon-badges.demolab.com/badge/Brasil-SP-purpl?style=for-the-badge&logo=location&logoColor=white"
-        />
-    </a>
+
+#
+<img align="right" alt="" height="190px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0eGNuODU0MmxwbXk1aW05eTEzYWJpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+<p aling="left">
     <a href=>
         <img 
             alt="gmail" 
@@ -24,19 +23,18 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
             src="https://custom-icon-badges.demolab.com/badge/Nicolas.pinheiro7@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white"
         />
     
-</a>
+
 <a href="https://www.linkedin.com/in/nicolaspinheirodasilva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"/>
     <img 
         alt="gmail" 
         title="gmail"
-        width="30px" 
-        style="padding-right: 15px;" 
-        href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
-    
+        width="29px" 
+        style="padding-right: ;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 </p>
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -48,7 +46,7 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img align="right" alt="" height="190px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0eGNuODU0MmxwbXk1aW05eTEzYWJpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
+
 
 <img 
     align="left" 
@@ -83,6 +81,8 @@ Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilid
 
 <br/>
 <br/>
+
+#
 
 ### 📊 Estatísticas
 
