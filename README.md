@@ -19,7 +19,6 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0e
 
 <a href="mailto:Nicolas.pinheiro7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    <a href="https://www.linkedin.com/in/nicolaspinheirodasilva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <a href="https://www.linkedin.com/in/nicolaspinheirodasilva" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
