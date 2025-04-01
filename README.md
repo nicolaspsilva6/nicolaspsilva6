@@ -27,14 +27,15 @@
   
   ### 📊 Estatísticas GitHub
   
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://streak-stats.demolab.com?user=nicolaspsilva6&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%">
-  </div>
+  <table>
+    <tr>
+      <td><img height="100em" src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/></td>
+      <td><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&langs_count=7&theme=dracula&hide_border=true"/></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="https://streak-stats.demolab.com?user=nicolaspsilva6&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%"></td>
+    </tr>
+  </table>
 </div>
 
 
