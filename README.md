@@ -32,9 +32,7 @@
       <td><img height="120em" src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/></td>
       <td><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&langs_count=7&theme=dracula&hide_border=true"/></td>
     </tr>
-    <tr>
-      <td colspan="2"><img src="https://streak-stats.demolab.com?user=nicolaspsilva6&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%"></td>
-    </tr>
+   
   </table>
 </div>
 
