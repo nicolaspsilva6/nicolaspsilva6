@@ -1,93 +1,66 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF00F6&center=true&vCenter=true&width=540&lines=%F0%9F%9A%80+Welcome+to+my+profile!+%F0%9F%8E%89;%F0%9F%92%BB+Full-Stack+Developer+%7C+Data+Enthusiast;" alt="Typing SVG">
+  </a>
 </div>
 
-#
+## 🌟 Sobre Mim
 
-<p align="center">Tenho 20 anos e sou de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNISA e atuo como desenvolvedor na área de banco de dados, com foco em Python, MySQL e Power BI.
-Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades técnicas e explorar novas soluções. Meu objetivo é evoluir continuamente como profissional, contribuindo para o desenvolvimento de sistemas eficientes e inovadores.</p>
-
-#
-
-<img align="right"  height="200px" 
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm53bWJrcHdtYXZiZXU3MWV0eGNuODU0MmxwbXk1aW05eTEzYWJpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif">
-
-<h3 align="left">Connect with me!</h3>
-    </a>
-
-<a href="mailto:Nicolas.pinheiro7@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    <a href="https://www.linkedin.com/in/nicolaspinheirodasilva" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-    
+<p align="center">
+  <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZzN3RqY2Y0b3VtZ3J6dGJ0dGJtY3FjZzF5dGZ4eG1qZ2N5eWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+  
+  Olá! Sou Nicolas, um desenvolvedor apaixonado por tecnologia com foco em soluções de dados. Com 20 anos e base em São Paulo, atualmente:
+  
+  - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNISA
+  - 💼 Desenvolvedor de Banco de Dados (Python + MySQL + Power BI)
+  - 🚀 Buscando constantemente novos desafios e aprendizados
+ 
 </p>
 
-### 🤖 Linguagens e Tecnologias
+## 🛠 Tech Stack
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Mysql"
-    title="Mysql" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-#
-
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <img 
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicolaspsilva6&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+<div align="center">
+  
+  ### 💻 Linguagens e Ferramentas
+  
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,git,github,vscode,powerbi" alt="Tech Stack" />
+  
+  ### 📊 Estatísticas GitHub
+  
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  </div>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=nicolaspsilva6&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
+</div>
 
 
+## 📞 Conecte-se Comigo
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nicolas.pinheiro7@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolaspinheirodasilva)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/seuID)
+
+  
+</div>
+
+## 🎯 Metas para 2025
+
+- [x] Certificação em Python
+- [ ] Dominar Power BI Avançado
+- [ ] Aprender AWS Fundamentals
+- [ ] SQL Avançado
 
 
+## 🐍 Contribuições
 
-#
-
-
-<picture align="left">
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolaspsilva6/nicolaspsilva6/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolaspsilva6/nicolaspsilva6/output/github-contribution-grid-snake-dark.svg">
   <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolaspsilva6/nicolaspsilva6/output/github-contribution-grid-snake.svg">
 </picture>
-
- oque voce melhoraria
+  
+</div>
