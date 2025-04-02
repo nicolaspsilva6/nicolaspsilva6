@@ -23,7 +23,7 @@
   
   ### 💻 Linguagens e Ferramentas
   
-  <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,git,github,vscode,powerbi" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,github,vscode,powerbi" alt="Tech Stack" />
   
   ### 📊 Estatísticas GitHub
   
