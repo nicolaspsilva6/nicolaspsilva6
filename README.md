@@ -7,7 +7,7 @@
 ## 🌟 Sobre Mim
 
 <p align="center">
-  <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZzN3RqY2Y0b3VtZ3J6dGJ0dGJtY3FjZzF5dGZ4eG1qZ2N5eWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZzYnluZmR6OXVlZmowbW1mbzRiMGhyODExczA3ejZyc3owazdpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a692I53FP9XtvM4YCc/giphy.gif">
   
   Olá! Sou Nicolas, um desenvolvedor apaixonado por tecnologia com foco em soluções de dados. Com 20 anos e base em São Paulo, atualmente:
   
@@ -29,8 +29,8 @@
   
   <table>
     <tr>
-      <td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/></td>
-      <td><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&langs_count=7&theme=dracula&hide_border=true"/></td>
+      <td><img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/></td>
+      <td><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&langs_count=7&theme=dracula&hide_border=true"/></td>
     </tr>
    
   </table>
