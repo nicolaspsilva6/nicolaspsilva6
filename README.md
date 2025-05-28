@@ -14,7 +14,7 @@
   - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNISA
   - 💼 Desenvolvedor de Banco de Dados (Python + MySQL + Power BI)
   - 🚀 Sempre buscando novos desafios e aprendizados
-  - 🌱 Aprendendo atualmente: SQL Avançado e Visualização de Dados
+ 
   
  
 </p>
