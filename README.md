@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF00F6&center=true&vCenter=true&width=540&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+perfil!+%F0%9F%8E%89;%F0%9F%92%BB%7C+Entusiasta+de+Dados;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF00F6&center=true&vCenter=true&width=540&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+perfil!+%F0%9F%8E%89;%F0%9F%92%BB%7C+Entusiasta+de+Dados;%F0%9F%92%BB%7C+Programador+em+Java" alt="Typing SVG">
   </a>
 </div>
 
@@ -14,6 +14,7 @@
   - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNISA
   - 💼 Desenvolvedor de Banco de Dados (Python + MySQL + Power BI)
   - 🚀 Sempre buscando novos desafios e aprendizados
+    
  
   
  
