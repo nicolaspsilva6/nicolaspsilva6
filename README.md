@@ -28,13 +28,19 @@
   
   <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,github,vscode,powerbi" alt="Stack Tecnológico" />
   
-  ### 📊 Estatísticas GitHub
-  
-  <a href="https://github.com/nicolaspsilva6">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do Nicolas"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
-  </a>
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img
+    height="180em"
+    src="https://SEU-DEPLOY.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&hide_border=true"
+  />
+  <img
+    height="180em"
+    src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&theme=dracula&hide_border=true"
+  />
 </div>
+
 
 ## 📞 Conecte-se Comigo
 
@@ -49,8 +55,8 @@
 ## 🎯 Metas para 2025
 
 - [x] Certificação em Python
-- [ ] Dominar Power BI Avançado
-- [ ] Aprender Fundamentos de AWS
+- [x] Dominar Power BI Avançado
+- [x] Aprender Fundamentos de AWS
 - [ ] SQL Avançado
 
 ## 🐍 Gráfico de Contribuições
