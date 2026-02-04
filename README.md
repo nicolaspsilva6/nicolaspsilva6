@@ -28,18 +28,8 @@
   
   <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,github,vscode,powerbi" alt="Stack Tecnológico" />
   
-### 📊 Estatísticas GitHub
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://SEU-DEPLOY.vercel.app/api?username=nicolaspsilva6&show_icons=true&theme=dracula&hide_border=true"
-  />
-  <img
-    height="180em"
-    src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=nicolaspsilva6&layout=compact&theme=dracula&hide_border=true"
-  />
-</div>
+
 
 
 ## 📞 Conecte-se Comigo
