@@ -32,6 +32,7 @@ Estou em constante evolução em **Data Analytics, Automação de Processos e En
 - **Java**: fundamentos de POO e lógica  
 - **HTML & CSS**: construção de interfaces simples e dashboards web
 
+---
 
 ### 🗄️ Bancos de Dados & SQL
 
@@ -43,6 +44,7 @@ Estou em constante evolução em **Data Analytics, Automação de Processos e En
 - **Modelagem de dados**  
 - **Snowflake** (conceitos e uso em ambiente de dados em nuvem)
 
+---
 
 ### 📊 Data Analytics & BI
 
@@ -51,7 +53,7 @@ Estou em constante evolução em **Data Analytics, Automação de Processos e En
 - **Matplotlib | Seaborn**: visualização e análise exploratória  
 - **Excel Avançado**: fórmulas, dashboards, automações com VBA
 
-
+---
 
 ### ⚙️ Automação & ETL
 
@@ -61,7 +63,7 @@ Estou em constante evolução em **Data Analytics, Automação de Processos e En
 - **Selenium**: automação de navegação web  
 - **APIs & Web Scraping**: coleta e integração de dados
 
-
+---
 
 ### ☁️ Cloud & Data Platforms
 
